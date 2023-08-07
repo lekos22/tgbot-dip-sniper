@@ -1,4 +1,4 @@
-# Ethereum Trading Bot
+# Dip Sniper Telegram bot
 
 This bot provides functionality for monitoring and trading ERC-20 tokens on the Ethereum blockchain via Uniswap V2. It integrates with Telegram to allow users to set various parameters and receive alerts.
 
